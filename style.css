@@ -1,0 +1,34 @@
+body{
+    background-color: blue;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    color: white;
+}
+div#vendas{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 5px 5px 10px black;
+}
+div#produtos{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 350px;
+    height: 350px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
+div#fichatecnica{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 350px;
+    height: 350px;
+    box-shadow: 5px 5px 10px black;
+}

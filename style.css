@@ -21,13 +21,10 @@ main{
 
 }
 div{
-    display: inline-block;
+    display: grid;
     width: 150px;
     height: 150px;
     background-color: white;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.315);
-    position: relative;
     padding: 10px;
-    text-align: center;
-    align-items: center;
 }
